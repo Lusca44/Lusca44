@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Santos :)
 <div>
   <a href="https://github.com/lusca44">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lusca44&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusca44&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lusca44&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusca44&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
