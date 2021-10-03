@@ -7,9 +7,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Java"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="springboot" width="38" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       
   <img align="right" width="150px" alt="gengar" src="https://cdn.discordapp.com/attachments/875584495137484810/875584521561600020/ezgif.com-gif-maker.gif">
 </div>
